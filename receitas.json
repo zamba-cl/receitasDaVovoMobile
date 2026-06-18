@@ -1,0 +1,984 @@
+[
+  {
+    "id": 1,
+    "nome": "PÃO DE LÓ",
+    "categoria": 1,
+    "ingredientes": [
+      "2 xicaras de açúcar",
+      "2 xicaras e meia de farinha",
+      "1/2 xicara de maizena",
+      "1 copo e meio de suco de laranja",
+      "1 colher bem cheia de fermento",
+      "5 ovos"
+    ],
+    "modoPreparo": "Bater as gemas com o caldo de laranja depois o açúcar e farinha, por último o fermento e as claras em neve. Leve ao forno para assar."
+  },
+  {
+    "id": 2,
+    "nome": "BOLO DE CENOURA",
+    "categoria": 1,
+    "ingredientes": [
+      "4 ovos",
+      "3 xicaras de chá de farinha de trigo",
+      "3 xicaras de chá de açúcar",
+      "3 cenouras médias",
+      "1 colher de sopa de fermento",
+      "1/2 copo de óleo",
+      "(CALDA) 250 grs de açúcar",
+      "(CALDA) 2 colheres de sopa de manteiga",
+      "(CALDA) 2 colheres de sopa de chocolate",
+      "(CALDA) 3 colheres de sopa de água"
+    ],
+    "modoPreparo": "Bata no liquidificador a cenoura o óleo e os ovos. Misture cm os outros ingredientes e bata bem. Mistura-se os ingredientes da calda e leva-se ao fogo para derreter. Jogar sobre o bolo ainda quente"
+  },
+  {
+    "id": 3,
+    "nome": "BOMBOCADO DE TABULEIRO",
+    "categoria": 1,
+    "ingredientes": [
+      "1/2 litro de leite",
+      "3 copos de açúcar",
+      "1 copo de farinha",
+      "4 ovos",
+      "1 pacote de côco",
+      "1 colher de manteiga",
+      "1 colher rasa de fermento"
+    ],
+    "modoPreparo": "Bata tudo no liquidificador. Asse em forma untada. OBS.: baunilha a vontade."
+  },
+  {
+    "id": 4,
+    "nome": "BEIJINHOS DE CÔCO",
+    "categoria": 1,
+    "ingredientes": [
+      "1 lata de leite condensado",
+      "1 pacote de côco ralado",
+      "2 gemas",
+      "1 colher de manteiga",
+      "1 colher de (chá) de baunilha"
+    ],
+    "modoPreparo": "Misture todos os ingredientes e leve ao fogo, mexendo sempre, até soltar do fundo da panela. Despeje a massa num prato untado com manteiga e deixe esfriar. Faça bolinhas, passe por açúcar cristal e coloque em forminhas de papel. OBS.: Podem ser passadas por côco ralado."
+  },
+  {
+    "id": 5,
+    "nome": "COCADA RAPIDA",
+    "categoria": 1,
+    "ingredientes": [
+      "1 côco ralado (pacote)",
+      "1 xicara de açúcar",
+      "1/2 xicara de água",
+      "1 lata de leite condensado"
+    ],
+    "modoPreparo": "Misture todos os ingredientes e leve ao fogo por alguns minutos."
+  },
+  {
+    "id": 6,
+    "nome": "TORTA DE BANANA",
+    "categoria": 1,
+    "ingredientes": [
+      "3 xicaras de farinha",
+      "1 xicara de açúcar",
+      "1 xicara de leite",
+      "1 colher de fermento",
+      "1 colher de manteiga",
+      "1 colher de óleo",
+      "6 bananas"
+    ],
+    "modoPreparo": "Amasse todos os ingredientes menos as bananas. Coloque em forma untada, por cima as bananas cortadas, polvilhe açúcar com canela."
+  },
+  {
+    "id": 7,
+    "nome": "PAVE DE LARANJA",
+    "categoria": 1,
+    "ingredientes": [
+      "1 lata de leite condençado",
+      "1 copo de leite de vaca",
+      "3 ovos",
+      "3 laranjas",
+      "1/2K de bolacha champagne "
+    ],
+    "modoPreparo": "Junte numa panela o leite condençado o leite de vaca e as gemas, faça um creme, bata as claras em neve, junte com o creme e misture bem. Esprema as laranjas, adoce e molhe as bolachas e va arrumando num pirex."
+  },
+  {
+    "id": 8,
+    "nome": "DANONE",
+    "categoria": 1,
+    "ingredientes": [
+      "1 litro de leite",
+      "1 copo de iogurte natural",
+      "1 caixa de gelatina",
+      "2 colheres de açúcar",
+      "pessego ou morango"
+    ],
+    "modoPreparo": "Ferve-se o leite quando morno morno mistura-se o iogurte e deixa-se para o outro dia. Faça a gelatina com 200ml de água fervendo, mistura-se com o leite e a fruta desejada e o açúcar."
+  },
+  {
+    "id": 9,
+    "nome": "PUDIM DE LEITE CONDENÇADO",
+    "categoria": 1,
+    "ingredientes": [
+      "1 lata de leite condençado",
+      "2 vezes a mesma medida de leite de vaca",
+      "1 colher de maizena",
+      "1 colher de açúcar",
+      "5 ovos"
+    ],
+    "modoPreparo": "Bater tudo no liquidificador. Cozinhar em banho-maria. Forma caramelizada."
+  },
+  {
+    "id": 10,
+    "nome": "PUDIM ECONOMICO",
+    "categoria": 1,
+    "ingredientes": [
+      "4 ovos",
+      "10 colheres de açúcar",
+      "2 colheres de farinha de trigo",
+      "1 colher de queijo ralado",
+      "1/2 litro de leite"
+    ],
+    "modoPreparo": "Bata tudo no liquidificador. Cozinhar em banho-maria. Forma caramelizada."
+  },
+  {
+    "id": 11,
+    "nome": "PUDIM DE LEITE NINHO",
+    "categoria": 1,
+    "ingredientes": [
+      "4 ovos",
+      "2 copos de açúcar",
+      "2 copos de leite",
+      "2 copos de leite ninho",
+      "1 copo de água"
+    ],
+    "modoPreparo": "Bata tudo no liquidificador. Cozinhar em banho-maria. Forma caramelizada."
+  },
+  {
+    "id": 12,
+    "nome": "BOLINHO DA VOVÓ",
+    "categoria": 1,
+    "ingredientes": [
+      "1 xicara de chá de farinha",
+      "1 ovo",
+      "2 colheres de açúcar",
+      "1 colherzinha de café de pó Royal",
+      "água ou leite ate amolecer a massa"
+    ],
+    "modoPreparo": "Misture bem os ingredientes. Fritar em óleo não muito quente. Pegar a massa com colher. Fazer bolinhos pequenos. Depois de fritos passar no açúcar."
+  },
+  {
+    "id": 13,
+    "nome": "ROSQUINHA DE PINGA",
+    "categoria": 1,
+    "ingredientes": [
+      "1 copo de açúcar",
+      "1 copo de óleo",
+      "1 copo de pinga",
+      "2 ovos",
+      "1 colher de fermento em pó",
+      "farinha até dar para enrolar",
+      "erva doce"
+    ],
+    "modoPreparo": "Esquente o óleo com a erva-doce. Deixe esfriar, misture todos os ingredientes amasse bem. Leve para assar faça rosquinhas. Depois de assadas passa-se em água com uma dose de pinga no açúcar quando ainda quente."
+  },
+  {
+    "id": 14,
+    "nome": "MANTECAL",
+    "categoria": 1,
+    "ingredientes": [
+      "1/2 Kg de banha saúde",
+      "1/2 Kg de açúcar",
+      "1 Kg de farinha"
+    ],
+    "modoPreparo": "Misture todos os ingredientes e amasse bem. Faça bolinhas com as mãos. Aperte com a ponta do dedo faça um buraquinho e coloque goiabada. Asse"
+  },
+  {
+    "id": 15,
+    "nome": "BOLACHA DE NATA",
+    "categoria": 1,
+    "ingredientes": [
+      "1 copo de nata",
+      "1 ovo",
+      "1 pitada de sal",
+      "1 colher de pó Royal",
+      "1 xicara de açúcar",
+      "2 xicaras de maizena",
+      "farinha de trigo"
+    ],
+    "modoPreparo": "Misture todos os ingredientes acrescente farinha de trigo até dar ponto de enrolar. Asse em forno quente."
+  },
+  {
+    "id": 16,
+    "nome": "LEITE CONDENSADO",
+    "categoria": 1,
+    "ingredientes": [
+      "1 litro de leite",
+      "3 xicaras de açúcar",
+      "1 colher de chá de pó Royal",
+      "1 colher de chá de maizena"
+    ],
+    "modoPreparo": "Misture tudo muito bem, leve ao fogo por mais ou menos uma hora."
+  },
+  {
+    "id": 17,
+    "nome": "ROCAMBOLE DA TITIA",
+    "categoria": 1,
+    "ingredientes": [
+      "250 gr de Nescau",
+      "250 gr de leite ninho instantaneo",
+      "1 lata de leite moça"
+    ],
+    "modoPreparo": "Misture o nescau e o leite moça vá colocando o leite ninho devagar. Misture o côco e o leite moça recheio. Coloque a massa em um plastico e passe o rolo, coloque o recheio e enrole."
+  },
+  {
+    "id": 18,
+    "nome": "QUEIJADINHA",
+    "categoria": 1,
+    "ingredientes": [
+      "2 xicaras de açúcar",
+      "2 xicaras de leite",
+      "1/2 xicara de côco",
+      "1/2 xicara de queijo",
+      "3 ovos",
+      "10 colheres de farinha",
+      "2 colheres de manteiga",
+      "1 colher de fermento"
+    ],
+    "modoPreparo": "Misture bem todos os ingredientes coloque em forminhas de papel e leve para assar."
+  },
+  {
+    "id": 19,
+    "nome": "CREME DE RECHEIO",
+    "categoria": 1,
+    "ingredientes": [
+      "1 litro de leite",
+      "1 lata de leite condençado",
+      "1 lata de creme de leite",
+      "4 colheres de maizena",
+      "2 colheres de açúcar",
+      "1 colher de café de baunilha"
+    ],
+    "modoPreparo": "Misture todos os ingredientes e leve ao forno mexendo até desprender da panela"
+  },
+  {
+    "id": 20,
+    "nome": "BOLO DE MILHO",
+    "categoria": 1,
+    "ingredientes": [
+      "4 espigas de milho",
+      "1/2 litro de leite",
+      "1/2 xicara de óleo",
+      "3 xicaras de açúcar",
+      "4 colheres de farinha",
+      "2 colheres de manteiga",
+      "1 colher de fermento",
+      "3 ovos"
+    ],
+    "modoPreparo": "Bata todos os ingredientes no liquidificador. Assar em forma untada."
+  },
+  {
+    "id": 21,
+    "nome": "BOLO DE FUBA COZIDO",
+    "categoria": 1,
+    "ingredientes": [
+      "2 xicaras de fubá",
+      "2 xicaras de açúcar",
+      "2 xicaras de leite",
+      "1 xicara de óleo",
+      "1 colher de chá de manteiga",
+      "1 pitada de sal",
+      "erva-doce a vontade"
+    ],
+    "modoPreparo": "Levar esses ingredientes ao fogo e cozinhar por 5 minutos deixe esfriar. Junte 4 gemas 1 colher de pó royal as claras em neve, leve ao forno em forma untada."
+  },
+  {
+    "id": 22,
+    "nome": "COMPOTA DE PERAS",
+    "categoria": 1,
+    "ingredientes": [
+      "12 peras duras",
+      "6 xicaras de açúcar",
+      "1 garrafa de água",
+      "um pouco de cravo"
+    ],
+    "modoPreparo": "Descascar as peras e colocar tudo para cozinhar até as peras amolecerem. Cozinhar as peras inteiras e com os cabinhos."
+  },
+  {
+    "id": 23,
+    "nome": "GELEIA",
+    "categoria": 1,
+    "ingredientes": [
+      "10 copos de água",
+      "3 xicaras de açúcar",
+      "12 colheres de maizena",
+      "2 pacotinhos de K.suco 1 amarelo e 1 vermelho"
+    ],
+    "modoPreparo": "Coloque para ferver 7 copos de água e o açúcar, no restante da água desmanche a maizena. Divida ambas em duas partes, em cada parte de água fervendo despeje o pacotinho de K.suco e sua respectiva parte de água com maizena. Misture muito bem despeje em uma assadeira uma sobre a outra e leve a geladeira."
+  },
+  {
+    "id": 24,
+    "nome": "PÃO DE BANANA",
+    "categoria": 1,
+    "ingredientes": [
+      "4 xicaras de farinha",
+      "2 xicaras de açúcar",
+      "2 xicaras de leite",
+      "8 colheres de óleo",
+      "2 colheres de fermento em pó",
+      "1 colherinha de sal",
+      "banana, açúcar e canela em pó"
+    ],
+    "modoPreparo": "Misture todos os ingredientes (leite quente) coloque as bananas, canela e açúcar por cima."
+  },
+  {
+    "id": 25,
+    "nome": "AMENDOIM COM AÇÚCAR",
+    "categoria": 1,
+    "ingredientes": [
+      "1/2 Kg de amendoim cru",
+      "2 1/2 xicaras de açúcar",
+      "1/2 colher de sopa de pó Royal",
+      "1/2 xicara de água"
+    ],
+    "modoPreparo": "Junte todos os ingredientese leve ao fogo, mexendo sempre até secar."
+  },
+  {
+    "id": 26,
+    "nome": "BOLO DE CHOCOLATE",
+    "categoria": 1,
+    "ingredientes": [
+      "1 xicara de chocolate",
+      "3 xicaras de farinha",
+      "2 xicaras de açúcar",
+      "2 xicaras de leite",
+      "2 colheres de manteiga",
+      "1 colher de fermento",
+      "4 ovos"
+    ],
+    "modoPreparo": "Bata as claras em neve, acrescente devagar as gemas, o açúcar e a farinha ja misturadas com o chocolate e o fermento. Derreta a mateiga no leite e acrescente alternando a farinha e o leite. Forma untada.."
+  },
+  {
+    "id": 27,
+    "nome": "PALHA ITALIANA",
+    "categoria": 1,
+    "ingredientes": [
+      "1 lata de leite condensado",
+      "1 colher de sopa de manteiga",
+      "2 colheres de sopa de Nescau",
+      "1 pacote de biscoitos maria picados"
+    ],
+    "modoPreparo": "Leve ao fogo baixo o leite condensado a manteiga e o Nescau, mexendo até desprender do fundo da panela, retire do fogo e misture os biscoitos despeje numa assadeira pequena untada. Depois de frio corte em quadradinhos."
+  },
+  {
+    "id": 28,
+    "nome": "BOLO FORMIGUEIRO",
+    "categoria": 1,
+    "ingredientes": [
+      "200 gramas de chocolate granulado",
+      "200 gramas de coco ralado",
+      "1 1/2 copos de açúcar",
+      "2 copos de farinha de trigo",
+      "1 copo de água",
+      "1 colher de fermento",
+      "200 gramas de manteiga",
+      "4 ovos"
+    ],
+    "modoPreparo": "Bata o açúcar, a manteiga e as gemas, junte a água e aos poucos a farinha, o fermento, o coco e as claras em neve. Misture o chocolate granulado sem bater. Leve ao forno em forma untada."
+  },
+  {
+    "id": 29,
+    "nome": "COLCHA FELPUDA",
+    "categoria": 1,
+    "ingredientes": [
+      "4 xicaras de açúcar",
+      "4 1/2 xicaras de farinha",
+      "6 ovos",
+      "200 grs de manteiga",
+      "1 vidro de leite de coco",
+      "1 vidro de leite de vaca",
+      "1 colher de fermento",
+      "(COBERTURA) 1 copo de água",
+      "(COBERTURA) 2 xicaras de açúcar",
+      "(COBERTURA) 1 pacote de coco ralado"
+    ],
+    "modoPreparo": "Bata o açúcar com a manteiga e as gemas, junte o leite de vaca, o leite de coco, a farinha e o fermento e por último as claras em neve. Para fazer a cobertura ferva a água com açúcar junte o coco e espalhe sobre o bolo ainda quente."
+  },
+  {
+    "id": 30,
+    "nome": "BOLO MESCLADO",
+    "categoria": 1,
+    "ingredientes": [
+      "(MASSA) 5 ovos",
+      "(MASSA) 2 xicaras de açúcar",
+      "(MASSA) 1 xicara de leite fervente",
+      "(MASSA) 2 xicaras de farinha",
+      "(MASSA) 1 colher de fermento",
+      "(RECHEIO) 1 lata de leite condensado",
+      "(RECHEIO) 1 lata de creme de leite",
+      "(RECHEIO) 1/2 litro de leite",
+      "(RECHEIO) 3 gemas",
+      "(RECHEIO) 3 colheres de sopa de maizena",
+      "(COBERTURA BRANCA) 2 xicaras de açúcar",
+      "(COBERTURA BRANCA) 1/2 xicara de água",
+      "(COBERTURA BRANCA) 3 claras em neve",
+      "(COBERTURA DE CHOCOLATE) 3 colheres de açúcar",
+      "(COBERTURA DE CHOCOLATE) 3 colheres de chocolate em pó",
+      "(COBERTURA DE CHOCOLATE) 1 colher de (café) de manteiga",
+      "(COBERTURA DE CHOCOLATE) 3 colheres de leite"
+    ],
+    "modoPreparo": "(MASSA) Bata as claras em neve, junte as gemas e o açúcar, continue a bater, junte aos poucos o leite e a farinha e fermento. Forma untada. (RECHEIO) Bata todos os ingredientes no liquidificador. leve ao fogo mexendo até engrossar, recheie o bolo. (COBERTURA BRANCA) Faça uma calda em ponto de fio com o açúcar e água e a baunilha bata as claras em neve na batedeira e vá despejando a calda fervente. Cubra o bolo com uma camda farta. (COBERTURA DE CHOCOLATE) Leve ao fogo o açúcar o chocolate a manteiga e o leite, deixe ferver mexendo sempre. Passe a cobertura de chocolate com uma colher faça movimentos circulares. Sirva gelado de vespera."
+  },
+  {
+    "id": 31,
+    "nome": "CREME DE BOLACHA",
+    "categoria": 1,
+    "ingredientes": [
+      "250 grs de bolachas",
+      "1 lata de leite condensado",
+      "2 latas de leite de vaca",
+      "3 ovos",
+      "5 colheres de açúcar",
+      "canela em pó"
+    ],
+    "modoPreparo": "Colocar o leite condensado e o de vaca para ferver. Bata as gemas com 2 colheres de açúcar e misture no leite deixando ferver um pouco. Forre a assadeira com as bolachas picadas, salpique canela em pó despeje o creme. Bata as claras em neve coloque o restante do açúcar coloque por cima leve a geladeira."
+  },
+  {
+    "id": 32,
+    "nome": "BOLO PETELECO CHOCOLATE",
+    "categoria": 1,
+    "ingredientes": [
+      "3 xicaras de farinha",
+      "3 xicaras de açúcar",
+      "1 xicara de chocolate",
+      "1 colher de chá de fermento",
+      "1 colher de chá de bicarbonato",
+      "1 xicara de chá de óleo",
+      "2 ovos",
+      "1 colher de vinagre",
+      "2 xicaras de chá de água fervente"
+    ],
+    "modoPreparo": "Misture os 5 primeiros ingredientes junte o óleo os ovos e por ultimo a água fervente, misture muito bem. Asse em assadeira untada forno quente por 10 a 15 minutos.."
+  },
+  {
+    "id": 33,
+    "nome": "PANDELÓ DE LARANJA",
+    "categoria": 1,
+    "ingredientes": [
+      "2 xicaras de farinha",
+      "2 xicaras de açúcar",
+      "4 ovos em separado",
+      "1 copo de suco de laranja",
+      "1 colher de pó Royal",
+      "1 litro de leite",
+      "(RECHEIO) 1 lata de leite condensado",
+      "(RECHEIO) 1 vidro de leite de coco",
+      "(RECHEIO) 3 colheres de sopa de maizena",
+      "(RECHEIO) 1 gema"
+    ],
+    "modoPreparo": "Bater as gemas com a laranja em segndo o açúcar até ficar cremoso, a farinha, por último o pó Royal e as claras em neve. (RECHEIO) Leve todos os ingredientes ao fogo mexendo sempre até engrossar."
+  },
+  {
+    "id": 34,
+    "nome": "RAPADURA DE CÔCO",
+    "categoria": 1,
+    "ingredientes": [
+      "1 lata de leite condensado",
+      "3 vezes a mesma medida de açúcar",
+      "1 colher de sobremesa de manteiga",
+      "1 pacote de côco ralado"
+    ],
+    "modoPreparo": "Misture todos os ingredientes e leve ao fogo, mexendo sempre até desprender do fundo da panela. Retire do fogo e bata até ficar opaco. Despeje sobre marmore untado depois de frio corte em pedaços."
+  },
+  {
+    "id": 35,
+    "nome": "BRIGADEIRO",
+    "categoria": 1,
+    "ingredientes": [
+      "1 lata de leite condensado",
+      "2 colheres de sopa de manteiga",
+      "4 colheres de sopa de Nescau"
+    ],
+    "modoPreparo": "Misture todos os ingredientes e leve ao fogo baixo mexendo sempre, até desprender do fundo da panela. Retire do fogo, despeje num prato. Faça bolinhas e passe em chocolate granulado."
+  },
+  {
+    "id": 36,
+    "nome": "BOMBA",
+    "categoria": 1,
+    "ingredientes": [
+      "1/4 de litro de água",
+      "2 colheres de sopa de manteiga",
+      "1 pitada de sal",
+      "1 1/2 de farinha de trigo",
+      "6 ovos"
+    ],
+    "modoPreparo": "Leve ao fogo a água, a manteiga e o sal, quando ferver, junte a farinha de uma só vez e mexa rapidamente até que a massa forme um bolo, retire do fogo e ponha na batedeira e coloque os ovos um a um bem devagar batendo bem. Passe pelo bico de confeiteiro dando o formato."
+  },
+  {
+    "id": 37,
+    "nome": "BOLO DE MEL",
+    "categoria": 1,
+    "ingredientes": [
+      "2 xicaras de farinha de trigo",
+      "1 xicara de mel",
+      "2 colheres de manteiga",
+      "2 colheres de sopa de Royal",
+      "4 ovos"
+    ],
+    "modoPreparo": "Bata-se o mel com a manteiga e as gemas junta-se as claras em neve e por ultimo a farinha e o Royal. Cubra com 1 colher de manteiga caldo de 1 laranja e mel. Forma untada."
+  },
+  {
+    "id": 38,
+    "nome": "ROSQUINHAS",
+    "categoria": 1,
+    "ingredientes": [
+      "1 quilo de farinha",
+      "250 gramas de açúcar",
+      "100 gramas de manteiga",
+      "75 gramas de fermento",
+      "20 gramas de sal",
+      "1/2 litros de leite",
+      "2 ovos",
+      "casca de limão"
+    ],
+    "modoPreparo": "Amasse todos os ingredientes e leve para assar em forma untada."
+  },
+  {
+    "id": 39,
+    "nome": "GELATINA COM LEITE CONDENSADO",
+    "categoria": 1,
+    "ingredientes": [
+      "1 pacote de gelatina",
+      "1 lata de leite condensado",
+      "2 colheres de sopa de maizena",
+      "2 1/2 xicaras de leite",
+      "3 ovos separados"
+    ],
+    "modoPreparo": "Em uma panela coloque 2 xicaras de leite e as gemas batidas o leite condensado. Misture bem dissolva a maizena na 1/2 xicara de leite restante e junte tudo. Leve ao fogo mexendo sempre até engrossar. Verifique o açúcar. Coloque este creme em um pirex. Deixe esfriar. Faça a gelatina normal, bata as claras em neve, junte a geatina e misture bem. Despeje esta mistura sobre o creme e leve a geladeira."
+  },
+  {
+    "id": 40,
+    "nome": "GELADO DE ABACAXI",
+    "categoria": 1,
+    "ingredientes": [
+      "6 copos de água",
+      "3 copos de açúcar",
+      "4 pacotes de gelatina de abacaxi",
+      "1 lata de creme de leite",
+      "1 abacaxi"
+    ],
+    "modoPreparo": "Pique o abacaxi bem pequeno cozinhe na água e açúcar, depois que levantar fervura cozinhar por mais 10 minutos. Retirar do fogo e acrescentar a gelatina. Mexer bem, por o creme de leite, mexer bem e levar a geladeira."
+  },
+  {
+    "id": 41,
+    "nome": "TORTA DE MORANGO",
+    "categoria": 1,
+    "ingredientes": [
+      "2 1/2 xicaras de farinha",
+      "100 gramas de margarina",
+      "2 colheres de açúcar",
+      "1 gema",
+      "1/2 colher de sopa de pó Royal",
+      "1 pitada de sal",
+      "leite o suficiente até a massa não grudar na mão",
+      "morangos",
+      "(CREME) 1 lata de leite condensado",
+      "(CREME) 1 lata de leite",
+      "(CREME) 3 gemas",
+      "(CREME) 1 colher de maizena",
+      "(GELEIA) 1 copo de água",
+      "(GELEIA) 1 copo de groselha",
+      "(GELEIA) 1 1/2 colher de maizena"
+    ],
+    "modoPreparo": "Leve a geleia ao fogo para engrossar. Asse a massa, depois coloque o creme, os morangos e por cima a geleia e leve a geladeira."
+  },
+  {
+    "id": 42,
+    "nome": "BRIGADEIRÃO DA TELMA",
+    "categoria": 1,
+    "ingredientes": [
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "200 gr de Nescau",
+      "1 colher de sopa de manteiga",
+      "3 ovos"
+    ],
+    "modoPreparo": "Bata tudo no liquidificador coloque em um refratário untado e polvilhado com chocolate granulado e leve ao microondas por 10 minutos. Desenforme frio e leve a geladeira por 2 horas."
+  },
+  {
+    "id": 43,
+    "nome": "BRIGADEIRÃO DA SHEILA",
+    "categoria": 1,
+    "ingredientes": [
+      "1 lata de leite condensado",
+      "1 lata de leite",
+      "1 xicara de Nescau",
+      "1 colher de sopa de farinha",
+      "1 colher de sopa de manteiga",
+      "4 ovos separados"
+    ],
+    "modoPreparo": "Bata tudo no liquidificador menos as claras que são batidas em neve e levemente misturada na massa. Forma untada e polvilhada com chocolate granulado, cozinhe em banho maria por mais ou menos 1 hora desenformar depois de gelado."
+  },
+  {
+    "id": 44,
+    "nome": "PAVE SONHO DE VALSA",
+    "categoria": 1,
+    "ingredientes": [
+      "(1° CAMADA) 1 lata de leite condensado",
+      "(1° CAMADA) 2 latas de leite",
+      "(1° CAMADA) 4 gemas",
+      "(1° CAMADA) 1 colher de maizena",
+      "(3° CAMADA) 2 1/2 copos de leite",
+      "(3° CAMADA) 3 colheres de Nescau",
+      "(3° CAMADA) 4 colheres de açúcar",
+      "(3° CAMADA) 2 colheres de sopa de maizena",
+      "(4° CAMADA) 4 claras em neve",
+      "(4° CAMADA) 6 colheres de açúcar",
+      "(4° CAMADA) 1 lata de creme de leite sem soro"
+    ],
+    "modoPreparo": "(1° CAMADA) Misture tudo e leve ao fogo até engrossar, coloque em pirex. (2° CAMADA) Picar 12 bombons sonho de valsa ou bolacha maizena ou champanhe. Molhar as bolachas em leite e nescau. (3° CAMADA) Leve ao fogo até engrossar. (4° CAMADA) 4 claras em neve junte 6 colheres de açúcar continue a bater, por último 1 lata de creme de leite sem soro. OBS.: Quando fizer com bolacha colocar nozes picadas."
+  },
+  {
+    "id": 45,
+    "nome": "FLAN DE IOGURTE",
+    "categoria": 1,
+    "ingredientes": [
+      "1 lata de leite condensado",
+      "1 lata de leite",
+      "2 potes de iogurte natural",
+      "1 envelope de gelatina em pó sem sabor"
+    ],
+    "modoPreparo": "Junte 6 colheres de sopa de água fria a gelatina e leve ao microondas. Bata no liquidificador o leite condensado, o leite, o iogurte e a gelatina. Coloque o creme na forma de pudim e leve a geladeira. Para cobrir 1 garrafa de suco concentrado e acrescente 1 colher de sopa de maizena. Deixe engrossar e cubra. OBS.: O suco é de goiaba."
+  },
+  {
+    "id": 46,
+    "nome": "BALA DE GOMA DE PINGA",
+    "categoria": 1,
+    "ingredientes": [
+      "1 quilo de açúcar",
+      "1 copo de pinga",
+      "2 copos de água",
+      "4 envelopes de gelatina sem sabor",
+      "4 envelopes de gelatina sabor diferente"
+    ],
+    "modoPreparo": "Misture todos os ingredientes menos a gelatina sem sabor, mexa bem leve ao fogo e deixe ferver 20 minutos sem mexer, tire do fogo reparta em 4 e em cada parte misture uma gelatina de sabor diferente e mexa bem. Coloque na geladeira até o dia seguinte corte como quiser e passe em açúcar."
+  },
+  {
+    "id": 47,
+    "nome": "SONEQUINHA RECHEADA",
+    "categoria": 1,
+    "ingredientes": [
+      "2 xicaras de farinha",
+      "1/2 xicara de maizena",
+      "1/2 xicara de leite morno",
+      "1/2 xicara de margarina (100 gr)",
+      "4 colheres de açúcar",
+      "3 tabletes de fermento de pão (45 gr)",
+      "3 gemas"
+    ],
+    "modoPreparo": "Mistre o fermento com açúcar junte o leite, a margarina, as gemas e aos poucos, os ingredientes secos peneirados amassando bem até obter uma massa que não grude nas mãos. Faça bolinhas e coloque em assadeira untada e enfarinhada. Deixe crescer até dobrar de volume. Leve ao forno médio por 20 minutos, deixe esfriar, corte ao meio e recheie a gosto com geleia, doce de leite ou goiabada."
+  },
+  {
+    "id": 50,
+    "nome": "ARROZ JAPONES",
+    "categoria": 0,
+    "ingredientes": [
+      "4 xicaras de arroz",
+      "10 copos de água",
+      "2 tomates",
+      "1 cebola",
+      "200 grs de presunto",
+      "1 lata de ervilha",
+      "2 ovos",
+      "1 pacotinho de queijo ralado",
+      "1/2 copo de óleo",
+      "1 colher de manteiga",
+      "Azeitona preta"
+    ],
+    "modoPreparo": "Misture todos os ingredientes, coloque numa assadeira e leve ao forno por mais ou menos uma hora. Descasque e pique tomate e cebola, pique tambem o presunto."
+  },
+  {
+    "id": 51,
+    "nome": "CARNE LOUCA",
+    "categoria": 0,
+    "ingredientes": [
+      "1 quilo de carne",
+      "1 copo de vinagre",
+      "1 copo de água",
+      "(REFOGADO) 1 quilo de tomate",
+      "(REFOGADO) 1/2 quilo de cebola",
+      "(REFOGADO) Alho a vontade",
+      "(REFOGADO) Sal e pimenta",
+      "(REFOGADO) 2 pimentões em tirinhas",
+      "(REFOGADO) 200 gramas de azeitonas picadas",
+      "(REFOGADO) +- um maço de cheiro verde"
+    ],
+    "modoPreparo": "Cozinhe a carne até ficar bem mole e desfie. Faça o refogado e misture tudo."
+  },
+  {
+    "id": 52,
+    "nome": "TORTA DE LIQUIDIFICADOR",
+    "categoria": 0,
+    "ingredientes": [
+      "1 xicara de óleo",
+      "1 1/2 xicara de leite",
+      "2 xicaras de farinha",
+      "1 colher de pó Royal",
+      "3 ovos",
+      "1 pitada de sal"
+    ],
+    "modoPreparo": "Junte a farinha e o fermento em uma tigela, bata os outros ingredientes no liquidificador, misture tudo. Ponha o recheio que quiser."
+  },
+  {
+    "id": 53,
+    "nome": "PASTELÃO",
+    "categoria": 0,
+    "ingredientes": [
+      "1/2 xicara de óleo",
+      "14 colheres de farinha",
+      "2 ovos",
+      "1 colher de fermento",
+      "1 colher de álcool",
+      "água que dê para amassar"
+    ],
+    "modoPreparo": "Amasse tudo rapidamente sem sovar. OBS.: A massa não deve ser feita com antecendencia. (RECHEIO) Carne moída como para pastel, com azeitonas e ovos cozidos, colocar uma colher de farinha de trigo na carne ainda quente."
+  },
+  {
+    "id": 54,
+    "nome": "MOLHO DE PIMENTA",
+    "categoria": 0,
+    "ingredientes": [
+      "1 litro de vinagre",
+      "1 lata de massa de tomate (pequena)",
+      "200 grs de pimenta vermelha",
+      "1 cebola",
+      "1 cabeça de alho",
+      "3 folhas de louro",
+      "1 nós moscada ralada",
+      "2 colheres de óleo",
+      "sal a gosto"
+    ],
+    "modoPreparo": "Bata todos os ingredientes no liquidificador e coe."
+  },
+  {
+    "id": 55,
+    "nome": "MASSA DE PIZZA",
+    "categoria": 0,
+    "ingredientes": [
+      "4 copos de farinha",
+      "2 ovos",
+      "1/2 xicara de óleo",
+      "sal",
+      "2 colherinhas de café de fermento",
+      "leite morno"
+    ],
+    "modoPreparo": "Amasse todos os ingredientes e acrescente o leite até dar para amassar."
+  },
+  {
+    "id": 56,
+    "nome": "MOLHO",
+    "categoria": 0,
+    "ingredientes": [
+      "1 quilo de tomate",
+      "1 cebola",
+      "cheiro verde",
+      "alho",
+      "sal",
+      "1/2 copo de vinagre",
+      "1/2 copo de óleo",
+      "1/2 copo de água"
+    ],
+    "modoPreparo": "Pique o tomate, junte a cebola, alho, vinagre, óleo, água e deixe ferver 10 minutos, junte o cheiro verde."
+  },
+  {
+    "id": 58,
+    "nome": "MASSA DE ESFIRRA",
+    "categoria": 0,
+    "ingredientes": [
+      "2 copos de leite morno",
+      "1 pacote de fermento biológico",
+      "1 colher rasa de sobremesa de açúcar",
+      "1 colher de sobremesa de sal",
+      "1 xicara de café de óleo (50ml)",
+      "farinha até dar ponto"
+    ],
+    "modoPreparo": "Amasse tudo e faça bolinhas e deixe crescer a gosto, pincele com ovo e leve para assar."
+  },
+  {
+    "id": 59,
+    "nome": "PÃO DA ZORAIDE",
+    "categoria": 0,
+    "ingredientes": [
+      "1 quilo de farinha",
+      "60 gramas de fermento",
+      "3 copos de água morna",
+      "1 xicara de óleo",
+      "1 xicara de açúcar",
+      "1 colher de sal"
+    ],
+    "modoPreparo": "Coloque a farinha em uma bacia faça um buraco no meio e reserve. Dissolva o fermento na água morna. Misture os outros ingredientes e coloque na bacia por uma hora. Faça pães e asse."
+  },
+  {
+    "id": 60,
+    "nome": "RISOLES",
+    "categoria": 0,
+    "ingredientes": [
+      "1 1/2 copo de leite",
+      "1 1/2 copo de farinha de trigo",
+      "1 colher cheia de margarina",
+      "caldo de carne"
+    ],
+    "modoPreparo": "Ferver o leite, a margarina e o caldo de carne, tire do fogo jogue a farinha de uma só vez e mexer rapidamente. Levar ao fogo brando e ir mexendo até formar uma bola na panela. Recheio a gosto."
+  },
+  {
+    "id": 61,
+    "nome": "EMPADÃO ERICA",
+    "categoria": 0,
+    "ingredientes": [
+      "300 grs de farinha de trigo",
+      "150 grs de margarina",
+      "1 ovo",
+      "1 colher de sopa de água",
+      "sal"
+    ],
+    "modoPreparo": "Misture e amasse todos os ingredientes muito bem, recheio a gosto."
+  },
+  {
+    "id": 62,
+    "nome": "MOLHO DE CHURRASCO",
+    "categoria": 0,
+    "ingredientes": [
+      "3 tomates grandes",
+      "1 cebola grande",
+      "1 colher de massa de tomate",
+      "1 maço de cheiro verde",
+      "1 folha de louro",
+      "2 dentes de alho",
+      "1/3 de nós moscada ralada",
+      "1 colher de café de açúcar",
+      "1 colher de café de pimenta do reino",
+      "2 pimentas ardidas",
+      "1/3 de copo de vinagre",
+      "1 copo de óleo",
+      "1 copo de água",
+      "2 pimentões maduros",
+      "sal a gosto"
+    ],
+    "modoPreparo": "Bater todos os ingredientes no liquidificador. Dá mais ou menos um litro de molho."
+  },
+  {
+    "id": 63,
+    "nome": "FRANGO COM MOLHO ROSE",
+    "categoria": 0,
+    "ingredientes": [
+      "1 peito de frango cozido",
+      "1 tomate",
+      "1 cebola",
+      "Salsa",
+      "Sal",
+      "1 lata de ervilha-milho",
+      "(MOLHO ROSE) 1 lata de creme de leite",
+      "(MOLHO ROSE) 1 lata de leite",
+      "(MOLHO ROSE) 1 colher de maizena",
+      "(MOLHO ROSE) 2 colheres de pomarola",
+      "(MOLHO ROSE) sal"
+    ],
+    "modoPreparo": "Desfie o frango e refogue com tomate, cebola, salsa e sal, coloque em um pirex e misture ervilha e milho. (MOLHO ROSE) Leve todos os ingredientes ao fogo para engrossar, despeje sobre o pirex cubra com mussarela, leve ao fogo até derreter."
+  },
+  {
+    "id": 64,
+    "nome": "PALITOS DE CEBOLA",
+    "categoria": 0,
+    "ingredientes": [
+      "1/2 quilo de farinha de trigo",
+      "2 ovos",
+      "1 cebola grande",
+      "1 xicara de café de leite",
+      "1 colher de sopa de pó Royal",
+      "3 colheres de maizena",
+      "1 xicara de queijo ralado",
+      "1 copo de óleo",
+      "sal",
+      "1 pimenta vermelha "
+    ],
+    "modoPreparo": "Bater no liquidificador o óleo, cebola, leite, ovos, pimenta e o sal. Misture a farinha, a maizena, o fermento e o queijo. Vá juntando aos poucos os ingredientes batidos, sovar bem a massa, corte em tirinhas e leve ao forno."
+  },
+  {
+    "id": 65,
+    "nome": "MOUSSE DE GORGONZOLA",
+    "categoria": 0,
+    "ingredientes": [
+      "250 grs de gorgonzola",
+      "1 lata de creme de leite",
+      "1/2 lata de leite",
+      "sal e pimenta a gosto",
+      "4 claras em neve",
+      "1 pct de gelatina sem sabor"
+    ],
+    "modoPreparo": "Bater tudo no liquidificador menos a clara em neve e a gelatina. Misturar um pacote de gelatina sem sabor com o primeiro creme e misturar as claras. OBS.: Dissolver a gelatina como explica a embalagem."
+  },
+  {
+    "id": 66,
+    "nome": "LICOR DE AMEIXA",
+    "categoria": 1,
+    "ingredientes": [
+      "250 grs de ameixa preta",
+      "6 xicaras de água",
+      "1/2 quilo de açúcar",
+      "1/2 litro de álcool cereal",
+      "1 xicara de conhaque"
+    ],
+    "modoPreparo": "Coloque a ameixa na água, leve ao fogo e deixe ferver, bastante. Coe num pano e apure 3 xicaras de calda. Junte o açúcar e leve ao fogo. Quando estiver quase fervendo junte o álcool e o conhaque. Coe e engarrafe."
+  },
+  {
+    "id": 67,
+    "nome": "LICOR DE VINHO",
+    "categoria": 1,
+    "ingredientes": [
+      "1 litro de vinho tinto",
+      "1 copo de pinga",
+      "1/2 vidro de baunilha",
+      "800 grs de açúcar"
+    ],
+    "modoPreparo": "Misture todos os ingredientes e engarrafe."
+  },
+  {
+    "id": 68,
+    "nome": "PONCHE",
+    "categoria": 1,
+    "ingredientes": [
+      "1 abacaxi picado",
+      "2 maçãs picadas",
+      "2 laranjas picadas",
+      "250 grs de uvas brancas sem casca",
+      "2 xicaras de açúcar",
+      "1 garrafa de champanhe",
+      "3 garrafinhas de guaraná",
+      "2 copos de vodka ou pinga",
+      "gelo picado"
+    ],
+    "modoPreparo": "Deixar as frutas com o açúcar, fermentar durante 20 minutos, acrescentar o resto dos ingredientes, deixar o gelo derreter e tomar."
+  },
+  {
+    "id": 69,
+    "nome": "BATIDA DE COCO",
+    "categoria": 1,
+    "ingredientes": [
+      "1/2 litro de leite",
+      "1/2 quilo de açúcar",
+      "1/2 garrafinha de pinga",
+      "1 vidro de leite de coco"
+    ],
+    "modoPreparo": "Bata tudo no liquidificador."
+  },
+  {
+    "id": 70,
+    "nome": "BATIDA DE MARACUJÁ",
+    "categoria": 1,
+    "ingredientes": [
+      "1 litro de pinga",
+      "1 quilo de açúcar",
+      "1 garrafa de maracujá",
+      "1 lata de leite condensado",
+      "1/2 litro de água natural"
+    ],
+    "modoPreparo": "Misture tudo num caldeirão e bata no liquidificador e misture novamente no caldeirão."
+  }
+]
