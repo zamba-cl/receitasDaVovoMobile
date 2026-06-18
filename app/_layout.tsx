@@ -12,6 +12,7 @@ export default function RootLayout() {
   
   const [fontsLoaded] = useFonts({
     fontVovo: require("../assets/fonts/Letravovo-Regular.ttf"),
+    Caveat: require("../assets/fonts/Caveat-VariableFont_wght.ttf")
   })
 
   return (
