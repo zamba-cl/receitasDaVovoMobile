@@ -1,20 +1,21 @@
 import { useState } from 'react'
-import { FlatList, StyleSheet, View, Image } from 'react-native'
+import { FlatList, StyleSheet, View, Image, TextInput } from 'react-native'
+import { router } from 'expo-router'
 import HomeCard from '../../components/card-component'
 import CustomInput from '../../components/custom-input-component'
 import receitas from '../../receitas.json'
 
-function Home() {
-
+function Doces() {
     const [pesquisa, setPesquisa] = useState('')
-    const receitasOrdenadas = [...receitas].sort((a, b) => a.nome.localeCompare(b.nome, 'pt-BR'))
+    const doces = receitas.filter(r => r.categoria === 1);
+    const receitasOrdenadas = [...doces].sort((a, b) => a.nome.localeCompare(b.nome, 'pt-BR'))
     const receitasFiltradas = receitasOrdenadas.filter(receita => receita.nome.toLowerCase().includes(pesquisa.toLowerCase()))
 
     return (
         <View style={styles.container}>
             <Image source={require('../../assets/images/logoVovo.png')} style={styles.logo} />
 
-            <CustomInput placeholder="Pesquisar receita..." value={pesquisa} onChangeText={setPesquisa}/>
+            <CustomInput placeholder="Pesquisar receita..." value={pesquisa} onChangeText={setPesquisa} />
 
             <FlatList
                 data={receitasFiltradas}
@@ -57,4 +58,4 @@ const styles = StyleSheet.create({
     },
 })
 
-export default Home;
+export default Doces;
