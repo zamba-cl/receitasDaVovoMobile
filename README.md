@@ -1,50 +1,131 @@
-# Welcome to your Expo app 👋
+# 📖 Receitas da Vovó
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplicativo mobile desenvolvido em React Native com Expo para armazenar e consultar receitas de família de forma simples e organizada.
 
-## Get started
+O objetivo do projeto é digitalizar um antigo caderno de receitas, preservando os modos de preparo originais e facilitando o acesso às receitas por toda a família.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## ✨ Funcionalidades
 
-2. Start the app
+- 📚 Visualização de todas as receitas
+- 🍰 Lista de receitas doces
+- 🍕 Lista de receitas salgadas
+- 🔍 Pesquisa de receitas por nome
+- 📝 Visualização detalhada de ingredientes e modo de preparo
+- 📖 Interface inspirada em um caderno de receitas
+- ↩️ Navegação entre telas com retorno para a página anterior
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 📱 Telas
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### Todas as Receitas
+Exibe todas as receitas cadastradas em ordem alfabética.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Receitas Doces
+Exibe apenas receitas classificadas como doces.
 
-## Get a fresh project
+### Receitas Salgadas
+Exibe apenas receitas classificadas como salgadas.
 
-When you're ready, run:
+### Detalhes da Receita
+Mostra:
+- Nome da receita
+- Lista de ingredientes
+- Modo de preparo completo
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- React Native
+- Expo
+- Expo Router
+- TypeScript
+- Lucide React Native
+
+---
+
+
+## 🚀 Como Executar
+
+### Instalar dependências
 
 ```bash
-npm run reset-project
+npm install
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Iniciar o projeto
 
-## Learn more
+```bash
+npx expo start
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+### Executar no Android
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npx expo start --tunnel
+```
 
-## Join the community
+Escaneie o QR Code utilizando o aplicativo Expo Go.
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 📦 Gerar APK
+
+Após configurar o EAS Build:
+
+```bash
+eas build -p android --profile preview
+```
+
+O Expo gerará um link para download do APK.
+
+---
+
+## 📊 Base de Dados
+
+As receitas são armazenadas localmente em um arquivo JSON.
+
+Cada receita possui a seguinte estrutura:
+
+```json
+{
+  "id": 1,
+  "nome": "PÃO DE LÓ",
+  "categoria": 1,
+  "ingredientes": [
+    "2 xícaras de açúcar",
+    "2 xícaras de farinha"
+  ],
+  "modoPreparo": "Modo de preparo da receita..."
+}
+```
+
+### Categorias
+
+| Valor | Categoria |
+|---------|-----------|
+| 0 | Salgada |
+| 1 | Doce |
+
+---
+
+## 🎨 Interface
+
+O design foi inspirado em um caderno de receitas tradicional, utilizando:
+
+- Fundo em tons de papel envelhecido
+- Linhas pautadas semelhantes a folhas de caderno
+- Margem vermelha lateral
+- Tipografia manuscrita
+
+---
+
+## 👨‍💻 Desenvolvido por
+
+**Carol Zambanini**
+
+Projeto desenvolvido para preservar e compartilhar receitas de família de forma digital.
+Uma homenagem para a minha vó Edina, que não esta com a gente em terra mas vai estar pra sempre em nossos corações!
