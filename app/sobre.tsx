@@ -56,7 +56,8 @@ export default function Sobre() {
             <Image source={require('../assets/images/fotoFamilia.png')} style={styles.imagem} />
 
             <Text style={styles.texto}>
-                Em memória do caderno de receitas amarelo, que guarda muito mais do que ingredientes: guarda momentos.
+                Em memória da nossa avó, que transformava ingredientes simples em receitas inesquecíveis e deixou, através de seu caderno amarelo, 
+                uma herança de carinho para toda a família.
             </Text>
 
             <Text style={styles.texto}>
