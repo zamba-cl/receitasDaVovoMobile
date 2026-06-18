@@ -12,6 +12,7 @@ export default function CustomInput({ placeholder, value, onChangeText }: Custom
 
         <TextInput
         placeholder={placeholder}
+        placeholderTextColor={"#d9c7a7"}
         value={value}
         onChangeText={onChangeText}
         style={styles.input}
@@ -31,5 +32,6 @@ const styles = StyleSheet.create({
 
         borderWidth: 1.5,
         borderColor: '#e8dcc6',
+
     },
 })
