@@ -127,5 +127,6 @@ O design foi inspirado em um caderno de receitas tradicional, utilizando:
 
 **Carol Zambanini**
 
-Projeto desenvolvido para preservar e compartilhar receitas de família de forma digital.
 Uma homenagem para a minha vó Edina, que não esta com a gente em terra mas vai estar pra sempre em nossos corações!
+
+Projeto desenvolvido para preservar e compartilhar receitas de família de forma digital.
