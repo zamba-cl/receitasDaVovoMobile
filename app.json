@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "receitasDaVovo",
-    "slug": "receitasDaVovo",
+    "name": "Receitas da Vovó",
+    "slug": "Receitas da Vovó",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
