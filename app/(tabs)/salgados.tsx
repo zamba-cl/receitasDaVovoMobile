@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import { FlatList, StyleSheet, View, Image, TextInput } from 'react-native'
-import { router } from 'expo-router'
+import { FlatList, StyleSheet, View, Image } from 'react-native'
 import HomeCard from '../../components/card-component'
 import CustomInput from '../../components/custom-input-component'
 import receitas from '../../receitas.json'
