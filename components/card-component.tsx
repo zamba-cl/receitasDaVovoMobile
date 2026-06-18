@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
 
   card: {
     width: '48%',
-    height: 140,
+    height: 110,
     
     backgroundColor: '#fffaf0',
 
@@ -46,6 +46,7 @@ const styles = StyleSheet.create({
     shadowOffset: {width: 0, height: 1,},
     shadowOpacity: 0.08,
     shadowRadius: 3,
+    paddingHorizontal: 10
   },
 
   cardPressed: {
@@ -54,15 +55,17 @@ const styles = StyleSheet.create({
   },
 
   content: {
-    flexDirection: 'row',
+    flex: 1,
+    justifyContent: 'center',
     alignItems: 'center',
-    gap: 14
   },
 
   title: {
     fontSize: 20,
     color: '#000000',
     fontFamily: 'fontVovo',
+
+    lineHeight: 30,
     textAlign: 'center'
   }
 });
