@@ -1,5 +1,7 @@
 import { useState } from 'react'
-import { FlatList, StyleSheet, View, Image } from 'react-native'
+import { FlatList, StyleSheet, View, Image, TouchableOpacity } from 'react-native'
+import { router } from 'expo-router'
+import { Info } from 'lucide-react-native'
 import HomeCard from '../../components/card-component'
 import CustomInput from '../../components/custom-input-component'
 import receitas from '../../receitas.json'
@@ -12,6 +14,11 @@ function Doces() {
 
     return (
         <View style={styles.container}>
+
+            <TouchableOpacity style={styles.info} onPress={() => router.push('/sobre')}>
+                <Info color={"#d9c7a7"} />
+            </TouchableOpacity>
+
             <Image source={require('../../assets/images/logoVovo.png')} style={styles.logo} />
 
             <CustomInput placeholder="Pesquisar receita..." value={pesquisa} onChangeText={setPesquisa} />
@@ -54,6 +61,14 @@ const styles = StyleSheet.create({
         resizeMode: 'contain',
         marginTop: 40,
         marginBottom: 20,
+    },
+
+    info: {
+        color: '#e8dcc6',
+        position: 'absolute',
+        top: 38,
+        right: 20,
+        zIndex: 10,
     },
 })
 
